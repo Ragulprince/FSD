@@ -1,0 +1,54 @@
+{
+    "smartphones": [
+      {
+        "name": "Smartphone Alpha",
+        "price": 299.99,
+        "description": "A sleek design with a 5.8-inch display and 12MP camera."
+      },
+      {
+        "name": "Smartphone Beta",
+        "price": 399.99,
+        "description": "Features a 6.1-inch display, dual camera system, and water resistance."
+      },
+      {
+        "name": "Smartphone Gamma",
+        "price": 499.99,
+        "description": "Offers a 6.5-inch OLED display, triple-lens camera, and 5G connectivity."
+      },
+      {
+        "name": "Smartphone Delta",
+        "price": 599.99,
+        "description": "Boasts a 120Hz refresh rate, 48MP main camera, and fast charging."
+      },
+      {
+        "name": "Smartphone Epsilon",
+        "price": 699.99,
+        "description": "Features an edge-to-edge display, in-screen fingerprint sensor, and AI-enhanced photography."
+      },
+      {
+        "name": "Smartphone Zeta",
+        "price": 799.99,
+        "description": "A gaming powerhouse with a 144Hz display, shoulder triggers, and cooling system."
+      },
+      {
+        "name": "Smartphone Eta",
+        "price": 899.99,
+        "description": "Ultra-premium design with ceramic back, 108MP camera, and wireless charging."
+      },
+      {
+        "name": "Smartphone Theta",
+        "price": 999.99,
+        "description": "Foldable design with a flexible OLED display and six-camera system."
+      },
+      {
+        "name": "Smartphone Iota",
+        "price": 1099.99,
+        "description": "Offers periscope zoom lens, 120x digital zoom, and a custom image sensor."
+      },
+      {
+        "name": "Smartphone Kappa",
+        "price": 1199.99,
+        "description": "Top-of-the-line specs with 1TB storage, 16GB RAM, and under-display camera technology."
+      }
+    ]
+  }
